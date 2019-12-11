@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811990575477",
+    "firebase_url": "https://app-do-moral-63dcb.firebaseio.com",
+    "project_id": "app-do-moral-63dcb",
+    "storage_bucket": "app-do-moral-63dcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811990575477:android:bf4fe483ac76d8f80b4b3c",
+        "android_client_info": {
+          "package_name": "br.com.criatees.appdomoral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811990575477-tle0c78ct1mgkc3fl5djclgiiav51u9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3xiB76M8S3FmwO5WsTaGQkXiZA2kNgnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811990575477-tle0c78ct1mgkc3fl5djclgiiav51u9k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811990575477-hhgrej20vlo9hsala8gen34u3grjtch5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.criatees.moral"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

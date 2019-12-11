@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>811990575477-hhgrej20vlo9hsala8gen34u3grjtch5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.811990575477-hhgrej20vlo9hsala8gen34u3grjtch5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCKXTJfap48BQCoLj_y3-8eQhzc14FjTMA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>811990575477</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.criatees.moral</string>
+	<key>PROJECT_ID</key>
+	<string>app-do-moral-63dcb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-do-moral-63dcb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:811990575477:ios:25a0252672b557340b4b3c</string>
+	<key>DATABASE_URL</key>
+	<string>https://app-do-moral-63dcb.firebaseio.com</string>
+</dict>
+</plist>

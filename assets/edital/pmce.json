@@ -1,0 +1,147 @@
+{
+  "Disciplinas" :{
+    "Portugues": {
+      "name": "Portugues",
+      "sigla": "PORT",
+      "peso": 1,
+      "master_id": 1,
+      "position": 1,
+      "color": "#558b2f",
+      "Topicos": [
+        "Compreensão e interpretação de texto",
+        "Tipologia e gêneros textuais.",
+        "Figuras de linguagem.",
+        "Significação de palavras e expressões.",
+        "Relações de sinonímia e de antonímia.",
+        "Ortografia.",
+        "Acentuação gráfica.",
+        "Uso da crase.",
+        "Divisão silábica.",
+        "Fonética e Fonologia: som e fonema, encontros vocálicos e consonantais e dígrafos",
+        "Morfologia: classes de palavras variáveis e invariáveis e seus empregos no texto.",
+        "Locuções verbais (perífrases verbais).",
+        "Funções do que e do se.",
+        "Formação de palavras.",
+        "Elementos de comunicação.",
+        "Sintaxe: relações sintático-semânticas estabelecidas entre orações, períodos ou parágrafos (período simples e período composto por coordenação e subordinação).",
+        "Concordância verbal e nominal.",
+        "Regência verbal e nominal.",
+        "Colocação pronominal.",
+        "Emprego dos sinais de pontuação e sua função no texto.",
+        "Elementos de coesão.",
+        "Função textual dos vocábulos.",
+        "Variação linguística."
+      ]
+    },
+    "Atualidades": {
+      "name": "Atualidades",
+      "sigla": "ATUA",
+      "peso": 1,
+      "master_id": 2,
+      "position": 2,
+      "color": "#388e3c",
+      "Topicos": [
+        "Domínio de tópicos atuais e relevantes de diversas áreas, tais como: economia, sociedade, educação, tecnologia, energia, relações internacionais, desenvolvimento sustentável, segurança, artes e literatura e suas vinculações históricas."
+      ]
+    },
+    "Matematica": {
+      "name": "Matematica",
+      "sigla": "MATEM",
+      "peso": 1,
+      "qtd_questoes": "NULL",
+      "position": 3,
+      "color": "#388e3c",
+      "Topicos": [
+        "Números inteiros, racionais e reais.",
+        "Sistema legal de medidas.",
+        "Razões e proporções.",
+        "Divisão proporcional.",
+        "Regras de três simples e compostas.",
+        "Percentagens.",
+        "Equações e inequações de 1.º e de 2.º graus.",
+        "Juros simples e compostos: capitalização e descontos."
+      ]
+    },
+    "Rac. Lógico": {
+      "name": "Raciocínio Lógico",
+      "sigla": "RACLO",
+      "peso": 1,
+      "position": 4,
+      "color": "red darken-2,#fbc02d",
+      "Topicos": [
+        "Sequências (com números, com figuras e de palavras)",
+        "Proposições",
+        "Conectivos",
+        "Argumentos válidos",
+        "Equivalência e implicação lógica."
+      ]
+    },
+    "Informática": {
+      "name": "Informática",
+      "sigla": "INFOR",
+      "peso": 1,
+      "position": 5,
+      "color": "#d84315",
+      "Topicos": [
+        "Conceitos e fundamentos básicos.",
+        "Conhecimento e utilização dos principais softwares utilitários (compactadores de arquivos, chat, clientes de e-mails, reprodutores de vídeo, visualizadores de imagem, antivírus). ",
+        "Identificação e manipulação de arquivos.",
+        "Backup de arquivos.",
+        "Conceitos básicos de Hardware (Placa-mãe, memórias, processadores (CPU) e disco de armazenamento HDs, CDs e DVDs).",
+        "Periféricos de computadores.",
+        "Ambientes operacionais: Utilização dos sistemas operacionais Windows XP Profissional e Windows 7.",
+        "Conceitos básicos sobre Linux e Software Livre.",
+        "Utilização dos editores de texto (Microsoft Word e LibreOffice Writer).",
+        "Utilização dos editores de planilhas (Microsoft Excel e LibreOffice Calc).",
+        "Utilização do Microsoft PowerPoint.",
+        "Utilização e configuração de e-mail no Microsoft Outlook.",
+        "Conceitos de tecnologias relacionadas à Internet e Intranet, busca e pesquisa na Web, Mecanismos de busca na Web, Navegadores de internet: Internet Explorer, Mozilla Firefox, Google Chrome.",
+        "Segurança na Internet, Vírus de computadores, Spyware, Malware, Phishing.",
+        "Transferência de arquivos pela internet."
+      ]
+    },
+    "Código Disciplinar dos Militares do Estado do Ceará": {
+      "name": "Código Disciplinar dos Militares do Estado do Ceará",
+      "sigla": "CDME",
+      "peso": 1,
+      "position": 6,
+      "color": "#f57c00",
+      "Topicos": [
+        "Código Disciplinar dos Militares do Estado do Ceará (Lei 13.407/2003 e suas alterações até a data de publicação do Edital).",
+        "Lei Complementar Estadual nº 98/2011 e suas alterações até a data de publicação do Edital.",
+        "Constituição Federal de 1988: Artigo 5º - Dos Direitos e Garantias Fundamentais e Artigo 144 - Da Segurança Pública."
+      ]
+    },
+    "Artigo 5 e Artigo 144 CF": {
+      "name": "Artigo 5 e Artigo 144 CF",
+      "sigla": "CF05E144",
+      "peso": 1,
+      "position": 7,
+      "color": "#f57c00",
+      "Topicos": [
+        "Artigo 5º",
+        "Artigo 144"
+      ]
+    },
+    "Estatuto dos Militares do Estado do Ceará": {
+      "name": "Estatuto dos Militares do Estado do Ceará",
+      "sigla": "EMEC",
+      "peso": 1,
+      "position": 8,
+      "color": "#f57c00",
+      "Topicos": [
+        "Legislação: Estatuto dos Militares do Estado do Ceará (Lei Estadual n° 13.729/2006, e suas alterações até a data de publicação do Edital)"
+      ]
+    },
+    "Lei da CGD": {
+      "name": "Lei Complementar Estadual nº 98/2011",
+      "sigla": "CGD",
+      "peso": 1,
+      "position": 9,
+      "color": "#f57c00",
+      "Topicos": [
+        "Constituição Federal de 1988: Artigo 5º - Dos Direitos e Garantias Fundamentais e Artigo 144 - Da Segurança Pública."
+      ]
+    }
+  }
+}
